@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Victor Ogbonna Foundation Inc</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Victor Ogbonna Foundation Inc is a non-profit organization focused on Environmental Advocacy, Social Justice, Literacy, Health and Wellness, Ethics and Energy." />
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:Arial, sans-serif;line-height:1.6;background:#f5f7fa;color:#222;}
+a{text-decoration:none;color:inherit;}
+
+header{background:linear-gradient(135deg,#145a32,#117864);color:#fff;padding:1rem 0;position:sticky;top:0;z-index:100;}
+.container{width:90%;max-width:1100px;margin:auto;}
+nav{display:flex;align-items:center;justify-content:space-between;}
+.logo-brand{display:flex;align-items:center;gap:.6rem;}
+.logo-image{width:48px;height:48px;border-radius:50%;object-fit:cover;}
+.logo-text{font-weight:700;font-size:1.1rem;text-transform:uppercase;}
+
+.nav-links{list-style:none;display:flex;gap:1.2rem;}
+
+.hero{background:linear-gradient(135deg,#145a32,#117864);color:#fff;padding:4rem 0;text-align:left;}
+.hero-title{font-size:2.6rem;font-weight:800;}
+.hero-subtitle{font-style:italic;margin-bottom:1rem;}
+
+section{padding:2.5rem 0;border-bottom:1px solid #dde1e7;}
+.section-title{font-size:1.6rem;margin-bottom:1.2rem;}
+
+.two-column{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:2rem;}
+.card{background:#fff;padding:1.5rem;border-radius:.75rem;box-shadow:0 4px 10px rgba(0,0,0,.05);}
+
+.founder-photo{width:180px;height:180px;border-radius:50%;border:4px solid #117864;object-fit:cover;}
+
+.impact-photo{width:100%;border-radius:.75rem;}
+
+footer{background:#0b2e19;color:#fff;text-align:center;padding:1.5rem 0;}
+</style>
+</head>
+
+<body>
+
+<header>
+<div class="container">
+<nav>
+    <div class="logo-brand">
+        <img src="foundation-emblem.png" class="logo-image" alt="Foundation Logo">
+        <span class="logo-text">Victor Ogbonna Foundation Inc</span>
+    </div>
+
+    <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#founder">Founder</a></li>
+        <li><a href="#message-founder">Message</a></li>
+        <li><a href="#programs">Programs</a></li>
+        <li><a href="#community-impact">Impact</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+</div>
+</header>
+
+<section class="hero">
+<div class="container">
+<h1 class="hero-title">Victor Ogbonna Foundation Inc</h1>
+<p class="hero-subtitle">"Expanding the territories of Culture."</p>
+<p>Dedicated to Environmental Advocacy, Social Justice, Literacy, Health & Wellness, Ethics and Energy.</p>
+</div>
+</section>
+
+<main>
+
+<section id="about">
+<div class="container two-column">
+    <div>
+        <h2 class="section-title">About the Foundation</h2>
+        <p>Established January 21, 2009, the Foundation uplifts communities through education, justice, environmental activism, and cultural transformation.</p>
+    </div>
+    <div class="card">
+        <p><strong>Name:</strong> Victor Ogbonna Foundation Inc</p>
+        <p><strong>Category:</strong> Non-Profit Organisation</p>
+        <p><strong>Commencement:</strong> 01/21/2009</p>
+        <p><strong>Purpose:</strong> Environmental Advocacy, Social Justice, Literacy, Health & Wellness, Ethics & Energy</p>
+    </div>
+</div>
+</section>
+
+<section id="founder">
+<div class="container two-column">
+    <div>
+        <h2 class="section-title">Founder & Visionary</h2>
+        <p><strong>Victor Okechuckwu Ogbonna</strong> — Author, Visionary, Consultant, and Founder dedicated to empowering communities and advancing ethical leadership.</p>
+    </div>
+    <div class="card" style="text-align:center;">
+        <img src="victor-ogbonna-founder.jpg" class="founder-photo" alt="Victor Ogbonna Portrait">
+        <p><strong>Email:</strong> thankgodchambers@yahoo.com</p>
+        <p><strong>Phone:</strong> +1 (202) 912-1281</p>
+    </div>
+</div>
+</section>
+
+<section id="message-founder">
+<div class="container">
+    <h2 class="section-title">Message From the Founder</h2>
+    <div class="card">
+        <p>“Culture is not just our past — it is the future we create. The Victor Ogbonna Foundation aims to expand the territories of culture by empowering people, strengthening communities, and championing justice and education.”</p>
+    </div>
+</div>
+</section>
+
+<section id="programs">
+<div class="container two-column">
+    <div>
+        <h2 class="section-title">Programs & Initiatives</h2>
+        <p>Our initiatives increase literacy, grow leadership, strengthen ethics, protect the environment, and improve community health.</p>
+    </div>
+    <div class="card">
+        <ul>
+            <li>Environmental Advocacy</li>
+            <li>Literacy & Learning Clinics</li>
+            <li>Health & Wellness Outreach</li>
+            <li>Ethics & Leadership Forums</li>
+        </ul>
+    </div>
+</div>
+</section>
+
+<section id="community-impact">
+<div class="container">
+    <h2 class="section-title">Community Outreach & Impact</h2>
+    <p>Supporting families, children, and elders through programs designed to uplift vulnerable communities.</p>
+    <img src="community-outreach-victor-ogbonna-foundation.jpg" class="impact-photo" alt="Community Outreach Photo">
+</div>
+</section>
+
+<section id="contact">
+<div class="container two-column">
+    <div>
+        <h2 class="section-title">Contact</h2>
+        <p>Email: <a href="mailto:thankgodchambers@yahoo.com">thankgodchambers@yahoo.com</a></p>
+        <p>Phone: +1 (202) 912-1281</p>
+    </div>
+
+    <div class="card">
+        <form action="https://formsubmit.co/thankgodchambers@yahoo.com" method="POST">
+            <input type="hidden" name="_subject" value="New Message From Foundation Website">
+            <label>Name:</label><br>
+            <input type="text" name="name" required><br><br>
+            <label>Email:</label><br>
+            <input type="email" name="email" required><br><br>
+            <label>Message:</label><br>
+            <textarea name="message" required></textarea><br><br>
+            <button type="submit">Send</button>
+        </form>
+    </div>
+</div>
+</section>
+
+</main>
+
+<footer>
+<p>&copy; 2025 Victor Ogbonna Foundation Inc — All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
